@@ -2,14 +2,24 @@ package smart_tv;
 
 public class SmartTv {
 	boolean state = false;
-	int chanel = 0;
+	int channel = 0;
 	int volume = 0;
 	
-	public void turnOn() {
-		this.state = !state;
+	public void turn(String trun) {
+		if(trun == "turn on") {
+			state = true;
+		}
+		if(trun == "trun off") {
+			state = false;
+		}		
 	}
-	public void turnOff() {
-		this.state = state;
+	
+	public void changeVolume(int newVolume) {
+		volume = newVolume;
+	}
+	
+	public void changeChannel(int newChannel) {
+		channel = newChannel;
 	}
 
 }
