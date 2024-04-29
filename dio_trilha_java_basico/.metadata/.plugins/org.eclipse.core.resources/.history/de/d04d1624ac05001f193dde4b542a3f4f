@@ -1,0 +1,15 @@
+package edu.zandrocr.tipos_variaveis;
+
+public class Unarios {
+	public static void main(String[] args) {
+		int num = 5;
+		
+		System.out.println("");
+	}
+	
+	public static void logic(int num) {
+		if(num >= 5) {
+			System.out.println(num++);
+		}
+	}
+}

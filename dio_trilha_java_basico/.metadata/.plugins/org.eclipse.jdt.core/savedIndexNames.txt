@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+F:\ws\dio_trilha_java_basico\.metadata\.plugins\org.eclipse.jdt.core
+4032504929.index
+2592486334.index
+1865797976.index

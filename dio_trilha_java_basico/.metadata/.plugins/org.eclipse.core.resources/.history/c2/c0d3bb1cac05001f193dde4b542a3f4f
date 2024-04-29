@@ -1,0 +1,7 @@
+package edu.zandrocr.tipos_variaveis;
+
+public class Unarios {
+	public static void main(String[] args) {
+		System.out.println("");
+	}
+}

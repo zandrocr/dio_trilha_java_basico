@@ -1,0 +1,7 @@
+package edu.zandrocr.tipos_variaveis;
+
+public class TiposVariaveiss {
+		public static void main(String[] args) {
+			System.out.println("Ola mundo!");
+		}
+}

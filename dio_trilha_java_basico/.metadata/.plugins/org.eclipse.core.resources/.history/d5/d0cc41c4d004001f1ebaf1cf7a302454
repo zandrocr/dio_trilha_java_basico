@@ -1,0 +1,18 @@
+package edu.zandrocr.tipos_variaveis;
+
+public class TiposVariaveis {
+	public static void main(String[] args) {
+		byte age = 53;
+		short year = 1984;
+		int quantity = 2;
+		long population = 52123655442L; //para o compilador não confundir com o tipo int
+		float pi = 3.13f; //para o compilador não confundir com o tipo double
+		double salary = 2542.32;
+		
+		name();
+	}
+	
+	public static void name() {
+		System.out.println("Teste");
+	}
+}

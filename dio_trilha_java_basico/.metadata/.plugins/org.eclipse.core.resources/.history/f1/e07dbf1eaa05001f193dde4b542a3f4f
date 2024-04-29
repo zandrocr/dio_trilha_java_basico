@@ -1,0 +1,28 @@
+package edu.zandrocr.tipos_variaveis;
+
+public class OperadoresTernarios {
+	public static void main(String[] args) {
+		double sum = 10.5 + 23.3;
+		int sub = 32 - 123;
+		int mult = 3 * 2;
+		int div = 452 / 23;
+		int mod = 29 % 2;
+		double result = (10 * 4) + (42 / 2);
+
+		print(sum, sub, mult, div, mod, result);
+		clas();
+	}
+
+	public static void print(double sum, int sub, int mult, int div, int mod, double result) {
+		System.out.printf("soma %s, subtração %s, multiplicação %s, divisão %s, modulo %s, resultado %s", sum, sub,
+				mult, div, mod, result);
+	}
+	
+	public static void clas(String[] args) {
+		String one = "Liguagem";
+		String two = "Java";
+		
+		System.out.printf("%s %s", one, two);
+	}
+
+}
