@@ -1,4 +1,4 @@
-package smart_tv;
+package com.zandrocr.smart_tv;
 
 public class SmartTv {
 	boolean state = false;

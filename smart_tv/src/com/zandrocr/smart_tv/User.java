@@ -1,6 +1,6 @@
-package smart_tv;
+package com.zandrocr.smart_tv;
 
-public class Usur {
+public class User {
 
 	public static void main(String[] args) {
 		SmartTv tv = new SmartTv();
