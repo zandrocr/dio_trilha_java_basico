@@ -10,5 +10,4 @@ public class Escola {
 				
 		System.out.printf("O aluno %s do sexo %s, tem %s anos e mora na %s.\n", felipe.getNome(), felipe.getSexo(), felipe.getIdade(), felipe.getEndereco());	
 		System.out.printf("A aluno %s do sexo %s, tem %s anos e mora na %s.\n", maria.getNome(), maria.getSexo(), maria.getIdade(), maria.getEndereco());	
-	}
-}
+	}}
