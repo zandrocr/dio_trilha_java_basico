@@ -1,26 +1,14 @@
 package Msn.com.messeger;
 
-public class MSNMessenger {
+import Msn.com.messeger.services.Servico;
+
+public class MSNMessenger extends Servico {
 	public void enviarMensagem() {
-		//primeiro confirmar se esta conectado a internet
 		validarConectadoInternet();
-		
-		System.out.println("Enviando mensagem");
-		
-		//depois de enviada, salva o histórico da mensagem
-		salvarHistoricoMensagem();
-		
-		
+		System.out.println("Enviando mensagem pelo MSN Messenger");
 	}
+
 	public void receberMensagem() {
-		System.out.println("Recebendo mensagem");
-	}
-	
-	//métodos privadas, visíveis somente na classe
-	private void validarConectadoInternet() {
-		System.out.println("Validando se está conectado a internet");
-	}
-	private void salvarHistoricoMensagem() {
-		System.out.println("Salvando o histórico da mensagem");
+		System.out.println("Recebendo mensagem pelo MSN Messenger");
 	}
 }
