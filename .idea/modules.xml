@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lanchonete/Lanchonete.iml" filepath="$PROJECT_DIR$/Lanchonete/Lanchonete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/argumentos/argumentos.iml" filepath="$PROJECT_DIR$/argumentos/argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectios_java/collectios_java.iml" filepath="$PROJECT_DIR$/collectios_java/collectios_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug/debug.iml" filepath="$PROJECT_DIR$/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exempos_pacotes/exempos_pacotes.iml" filepath="$PROJECT_DIR$/exempos_pacotes/exempos_pacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_anatomia_classes/java_anatomia_classes.iml" filepath="$PROJECT_DIR$/java_anatomia_classes/java_anatomia_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart_tv/smart_tv.iml" filepath="$PROJECT_DIR$/smart_tv/smart_tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos_variaveis/tipos_variaveis.iml" filepath="$PROJECT_DIR$/tipos_variaveis/tipos_variaveis.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ace65c38-d3a2-4275-86fe-cddeb9d2dca9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/generic/type/list/Ordenacao/ListaPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/list/Ordenacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/map/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/map/ordenacoes_basicas/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/map/pesquisa/EstoqueProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/map/pesquisa/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/set/ConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/set/Convidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/set/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/set/ordenacao/CadastroProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/set/ordenacao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/set/pesquisa/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/type/set/pesquisa/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic/type/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generic/type/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic/type/list/OperacoesBasicas/CarrinhoDeCompras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic/type/list/OperacoesBasicas/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic/type/list/OperacoesBasicas/ListTarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generic/type/list/ListaTarefas/ListTarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic/type/list/OperacoesBasicas/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generic/type/list/ListaTarefas/Tarefa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2h9WroWFigYO4w7s5NzrmtoNYcN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgendaContatos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadastroProdutos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConjuntoConvidados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\ws\dio_trilha_java_basico\collectios_java\src\generic\type\map" />
+      <recent name="H:\ws\dio_trilha_java_basico\collectios_java\src\generic\type\set" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace65c38-d3a2-4275-86fe-cddeb9d2dca9" name="Changes" comment="" />
+      <created>1717006982774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717006982774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bin/generic/type/list/CatalogoLivros/CatalogoLivros.class</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package generic.type.list.OperacoesBasicas;
+package generic.type.list.ListaTarefas;
 
 public class Tarefa {
 	//atributo
