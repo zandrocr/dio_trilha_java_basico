@@ -56,7 +56,7 @@ public class AgendaEventos {
         agendaEventos.adicionarEvento(LocalDate.of(2024, 9, 20), "Seminário de Inteligência Artificial", "Discussão sobre IA avançada");
 
         // Exibe a agenda completa de eventos
-        agendaEventos.exibirAgenda();
+//        agendaEventos.exibirAgenda();
 
         // Obtém e exibe o próximo evento na agenda
         agendaEventos.obterProximoEvento();
